@@ -1,6 +1,6 @@
 # Point of Sale (POS) Backend API
 
-A FastAPI backend prototype for a point-of-sale system. The application is organized into routers, Pydantic schemas, service classes, SQLAlchemy models, and a PostgreSQL database layer.
+A FastAPI and PostgreSQL backend prototype for managing products, inventory, customers, suppliers, and sales.
 
 ## Features represented in the API
 
